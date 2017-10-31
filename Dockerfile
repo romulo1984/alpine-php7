@@ -1,5 +1,5 @@
 FROM php:7-fpm-alpine
-MAINTAINER Rômulo Guimarães <romulo1984@gmail.com>
+MAINTAINER Lucas Sartori <lucas.sartm@gmail.com>
 
 ENV TERM=xterm
 
